@@ -173,6 +173,7 @@ function indekseGoreFenomen(dizi,indeks) {
   let text = (`${indeks}. indekste bulunan fenomen: ${profil}`);
   return text;
 }
+
 //console.log(indekseGoreFenomen(fenomenler,1));
 
 
